@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T08:40:25.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uzJBGF152us75NQ7mqPS" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-11T08:40:37.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PJtcq07pHPSKGJECEKld" version="24.3.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="3428" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="s_7mGbBZ-8Ej9yZiGYav-54" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;/boot/grub&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="215" y="805" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s_7mGbBZ-8Ej9yZiGYav-55" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;实模式下的1MB地址空间分配&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-330" y="960" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
